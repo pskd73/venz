@@ -21,6 +21,7 @@ const tailwind = async () => {
     "./src/style.css",
     "-o",
     "./build/style.css",
+    "--minify"
   ]);
 };
 
