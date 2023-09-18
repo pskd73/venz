@@ -5,7 +5,7 @@ Venz is a simple template for web based SaaS applications. It provides
 
 ## React client app
 It is under `web-app` subdirectory. It comes with following features out of the box without any extra setup It!
-1. Tailwind
+1. [Tailwind](https://tailwindcss.com/)
 2. [Daisyui](https://daisyui.com/)
 
 It by default runs on `bun`. You can boot it up as follows
